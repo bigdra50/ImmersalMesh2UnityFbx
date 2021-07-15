@@ -2,4 +2,4 @@
 
 ## Usage
 
-`blender -P .\ImmersalPly2UnityFbx.py "path/to/your/file.ply" `
+`blender -P .\ImmersalMesh2UnityFbx.py "path/to/your/file.ply" `
